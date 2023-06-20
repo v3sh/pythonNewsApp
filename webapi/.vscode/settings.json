@@ -1,0 +1,19 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "cSpell.words": [
+        "asyncpg",
+        "fastapi",
+        "uvicorn"
+    ]
+}

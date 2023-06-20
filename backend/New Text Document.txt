@@ -1,0 +1,3 @@
+@echo off
+"C:\Users\Harjit\AppData\Local\Programs\Python\Python37-32\python.exe" "E:\Masters in Canada\Northeastern University\Q3\XN - project\pythonNewsApp\backend\insert_data.py"
+pause
